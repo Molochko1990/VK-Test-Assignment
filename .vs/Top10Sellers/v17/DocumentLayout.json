@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\es01\\source\\repos\\Top10Sellers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBDB50-3E3A-4239-A6BE-6A4BD011DC2A}|Top10Sellers\\Top10Sellers.csproj|c:\\users\\es01\\source\\repos\\top10sellers\\top10sellers\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7AEBDB50-3E3A-4239-A6BE-6A4BD011DC2A}|Top10Sellers\\Top10Sellers.csproj|solutionrelative:top10sellers\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBDB50-3E3A-4239-A6BE-6A4BD011DC2A}|Top10Sellers\\Top10Sellers.csproj|c:\\users\\es01\\source\\repos\\top10sellers\\top10sellers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBDB50-3E3A-4239-A6BE-6A4BD011DC2A}|Top10Sellers\\Top10Sellers.csproj|solutionrelative:top10sellers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\es01\\source\\repos\\Top10Sellers\\Top10Sellers\\.gitignore",
+              "RelativeDocumentMoniker": "Top10Sellers\\.gitignore",
+              "ToolTip": "C:\\Users\\es01\\source\\repos\\Top10Sellers\\Top10Sellers\\.gitignore",
+              "RelativeToolTip": "Top10Sellers\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T14:10:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\es01\\source\\repos\\Top10Sellers\\Top10Sellers\\Program.cs",
+              "RelativeDocumentMoniker": "Top10Sellers\\Program.cs",
+              "ToolTip": "C:\\Users\\es01\\source\\repos\\Top10Sellers\\Top10Sellers\\Program.cs",
+              "RelativeToolTip": "Top10Sellers\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T14:07:29.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

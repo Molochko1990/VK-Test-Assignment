@@ -1,0 +1,18 @@
+    .vs/
+    .vscode/
+    Debug/
+    Release/
+    ipch/
+    *.user
+    *.suo
+    *.log
+    *.obj
+    *.bin
+    *.exe
+    *.tmp
+    *.log
+    *.lnk
+    packages
+    *.DotSettings.user
+    ReSharper.*
+    

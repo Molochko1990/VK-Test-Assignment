@@ -1,0 +1,17 @@
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\bin\Debug\net8.0\Top10Sellers.exe
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\bin\Debug\net8.0\Top10Sellers.deps.json
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\bin\Debug\net8.0\Top10Sellers.runtimeconfig.json
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\bin\Debug\net8.0\Top10Sellers.dll
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\bin\Debug\net8.0\Top10Sellers.pdb
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.csproj.AssemblyReference.cache
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.AssemblyInfoInputs.cache
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.AssemblyInfo.cs
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.csproj.CoreCompileInputs.cache
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sel.09614C0F.Up2Date
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.dll
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\refint\Top10Sellers.dll
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.pdb
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\Top10Sellers.genruntimeconfig.cache
+C:\Users\es01\source\repos\Top10Sellers\Top10Sellers\obj\Debug\net8.0\ref\Top10Sellers.dll

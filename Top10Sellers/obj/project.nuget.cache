@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dvYnZLNrmk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\es01\\source\\repos\\Top10Sellers\\Top10Sellers\\Top10Sellers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\es01\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
