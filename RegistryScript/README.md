@@ -14,7 +14,12 @@
 
 ## Установка
 
-* Пропускаем этап установки в данном описании.
+```
+git clone https://github.com/Molochko1990/VK-Test-Assignment.git
+pip install -r requirements.txt
+```
+   
+
 
 ## Использование
 
